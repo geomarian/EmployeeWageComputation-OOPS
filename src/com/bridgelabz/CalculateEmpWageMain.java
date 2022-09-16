@@ -47,6 +47,7 @@ public class CalculateEmpWageMain {
 		System.out.println("No. of working days = " +  newCompany1.workingHours);
 		
 		
+		NewCompany newcomp = new NewCompany();
 		
 		
 		
